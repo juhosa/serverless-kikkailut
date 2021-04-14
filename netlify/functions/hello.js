@@ -3,6 +3,6 @@ exports.handler = async (event, context) => {
   const name = event.queryStringParameters.name || "Tuntematon";
   return {
     statusCode: 200,
-    body: JSON.stringify({ message: `Moro, ${name}` }),
+    body: JSON.stringify({ message: `Moro, ${name}!` }),
   };
 };
