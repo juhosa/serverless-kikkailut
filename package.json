@@ -1,0 +1,32 @@
+{
+  "name": "serverless-kikkailut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "cross-fetch": "^3.1.4",
+    "delayed-stream": "^1.0.0",
+    "extract-files": "^9.0.0",
+    "form-data": "^3.0.1",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0",
+    "mime-db": "^1.47.0",
+    "mime-types": "^2.1.30",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhosa/serverless-kikkailut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhosa/serverless-kikkailut/issues"
+  },
+  "homepage": "https://github.com/juhosa/serverless-kikkailut#readme"
+}
